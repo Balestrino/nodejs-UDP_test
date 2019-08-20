@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-udp_test",
+  "version": "0.0.1",
+  "description": "Test suite for NodeJS with ethernet-mcu boards",
+  "main": "udp_client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "udp"
+  ],
+  "author": "Salvatore Balestrino",
+  "license": "MIT"
+}
