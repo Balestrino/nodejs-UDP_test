@@ -3,7 +3,12 @@ node_modules
 ._* .Trashes
 Thumbs.db
 *.log
-*.sql
-*.sqlite
 *.bck
 *.backup
+build/*
+!build/hover.hex
+.pioenvs
+.piolibdeps
+.vscode/.browse.c_cpp.db*
+.vscode/c_cpp_properties.json
+.vscode/launch.json
